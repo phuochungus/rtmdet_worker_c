@@ -1,0 +1,5 @@
+mmdeploy**
+onnx**
+server/uploads/**
+**/*.png
+server/node_modules

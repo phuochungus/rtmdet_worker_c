@@ -1,0 +1,4 @@
+worker/build
+mmdeploy/build
+server/uploads/**
+.git
